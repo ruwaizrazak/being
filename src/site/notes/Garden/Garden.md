@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-02T21:20:53.842+01:00"}
+{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-02T21:28:01.087+01:00"}
 ---
 
+# Garden
 
 - **[[Garden/Journals/Journals\|Journals]]**
 	- [[Garden/Journals/An automated story\|An automated story]]
