@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/procastination/","title":"Procastination","tags":["budding"]}
+{"dg-publish":true,"permalink":"/garden/journals/procastination/","title":"Procastination","tags":["budding"],"noteIcon":1,"created":"2024-11-30T20:41:36.973+01:00","updated":"2024-11-30T22:53:08.384+01:00"}
 ---
 
 ## How to avoid

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/wiki/wiki/","pinned":true}
+{"dg-publish":true,"permalink":"/garden/wiki/wiki/","pinned":true,"noteIcon":"1","created":"2024-11-30T22:35:36.018+01:00","updated":"2024-12-01T19:29:17.331+01:00"}
 ---
 
 > Watch out, this is a personal digital garden. Ideas are not well thought nor polished.

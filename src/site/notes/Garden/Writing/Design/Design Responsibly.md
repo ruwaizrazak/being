@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/design-responsibly/","title":"Design Responsibly","tags":["budding","design"]}
+{"dg-publish":true,"permalink":"/garden/writing/design/design-responsibly/","title":"Design Responsibly","tags":["budding","design"],"noteIcon":2,"created":"2024-11-30T20:41:36.951+01:00","updated":"2024-11-30T22:51:27.377+01:00"}
 ---
 
 

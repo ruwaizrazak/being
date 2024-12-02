@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/how-to-be-a-ux-designer/","title":"How to be a UX designer","tags":["budding","design"]}
+{"dg-publish":true,"permalink":"/garden/writing/design/how-to-be-a-ux-designer/","title":"How to be a UX designer","tags":["budding","design"],"noteIcon":2,"created":"2024-11-30T20:41:36.962+01:00","updated":"2024-11-30T22:51:35.216+01:00"}
 ---
 
 

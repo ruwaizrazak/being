@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/unintended-consequences-of-design/","title":"Unintended Consequences of Design","tags":["design","budding"]}
+{"dg-publish":true,"permalink":"/garden/writing/design/unintended-consequences-of-design/","title":"Unintended Consequences of Design","tags":["design","budding"],"noteIcon":3,"created":"2024-11-30T20:41:36.987+01:00","updated":"2024-11-30T22:51:43.645+01:00"}
 ---
 
 

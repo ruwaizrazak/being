@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/childhood/","title":"Childhood","tags":["thoughts","budding"]}
+{"dg-publish":true,"permalink":"/garden/journals/childhood/","title":"Childhood","tags":["thoughts","budding"],"noteIcon":3,"created":"2024-11-30T20:41:36.948+01:00","updated":"2024-11-30T22:52:39.628+01:00"}
 ---
 
 “I spent my whole childhood wishing I were older and now I'm spending my adulthood wishing I were younger”.

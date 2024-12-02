@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/journals/","pinned":true}
+{"dg-publish":true,"permalink":"/garden/journals/journals/","pinned":true,"noteIcon":"1","created":"2024-12-01T00:12:51.916+01:00","updated":"2024-12-01T19:29:35.720+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/an-automated-story/","title":"An automated story","tags":["thoughts","tech"]}
+{"dg-publish":true,"permalink":"/garden/journals/an-automated-story/","title":"An automated story","tags":["thoughts","tech"],"noteIcon":2,"created":"2024-11-30T20:41:36.946+01:00","updated":"2024-11-30T22:52:34.394+01:00"}
 ---
 
 

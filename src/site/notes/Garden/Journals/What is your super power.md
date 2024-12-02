@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/what-is-your-super-power/","title":"What is your super power","tags":["thoughts","seeds"]}
+{"dg-publish":true,"permalink":"/garden/journals/what-is-your-super-power/","title":"What is your super power","tags":["thoughts","seeds"],"noteIcon":1,"created":"2024-11-30T20:41:36.994+01:00","updated":"2024-11-30T22:53:24.881+01:00"}
 ---
 
 s

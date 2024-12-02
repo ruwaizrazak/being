@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/design/","pinned":true}
+{"dg-publish":true,"permalink":"/garden/writing/design/design/","pinned":true,"noteIcon":"1","created":"2024-12-01T00:51:36.963+01:00","updated":"2024-12-01T18:57:55.075+01:00"}
 ---
 
 

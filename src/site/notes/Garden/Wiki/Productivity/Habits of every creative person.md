@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/wiki/productivity/habits-of-every-creative-person/","title":"Habits of every creative person","tags":["seedling"]}
+{"dg-publish":true,"permalink":"/garden/wiki/productivity/habits-of-every-creative-person/","title":"Habits of every creative person","tags":["seedling"],"noteIcon":1,"created":"2024-11-30T20:41:36.953+01:00","updated":"2024-12-01T00:10:47.529+01:00"}
 ---
 
 

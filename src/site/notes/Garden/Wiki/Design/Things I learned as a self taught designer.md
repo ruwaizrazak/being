@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/wiki/design/things-i-learned-as-a-self-taught-designer/","title":"Things I learned as a self taught designer","tags":["thoughts","design"]}
+{"dg-publish":true,"permalink":"/garden/wiki/design/things-i-learned-as-a-self-taught-designer/","title":"Things I learned as a self taught designer","tags":["thoughts","design"],"noteIcon":1,"created":"2024-11-30T20:41:36.984+01:00","updated":"2024-11-30T23:30:04.289+01:00"}
 ---
 
 1.  Earlier in your careers its best to embrace the “Junior” title and focus a lot on learning

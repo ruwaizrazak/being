@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/the-validation-trap/","title":"The Validation trap","tags":["seedling"]}
+{"dg-publish":true,"permalink":"/garden/journals/the-validation-trap/","title":"The Validation trap","tags":["seedling"],"noteIcon":1,"created":"2024-11-30T20:41:36.977+01:00","updated":"2024-11-30T22:53:14.252+01:00"}
 ---
 
 

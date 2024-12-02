@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/the-journey/","title":"The Journey","tags":["thoughts"]}
+{"dg-publish":true,"permalink":"/garden/journals/the-journey/","title":"The Journey","tags":["thoughts"],"noteIcon":2,"created":"2024-11-30T20:41:36.983+01:00","updated":"2024-11-30T22:53:20.765+01:00"}
 ---
 
 Regardless of your agreement, we all are passengers, who got into the train named life. Running behind things which we wants to own, satisfying the basic necessities of yourself from the available options around you, and spectating the wonderful sites outside via the windows.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/design-and-data/","title":"Design and Data","tags":["design","budding"]}
+{"dg-publish":true,"permalink":"/garden/writing/design/design-and-data/","title":"Design and Data","tags":["design","budding"],"noteIcon":2,"created":"2024-11-30T20:41:36.950+01:00","updated":"2024-12-01T01:17:38.219+01:00"}
 ---
 
 

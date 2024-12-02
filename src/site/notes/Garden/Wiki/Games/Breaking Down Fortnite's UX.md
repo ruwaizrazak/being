@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/wiki/games/breaking-down-fortnite-s-ux/","title":"Breaking Down Fortnite's UX","tags":["design","tech","seeds"]}
+{"dg-publish":true,"permalink":"/garden/wiki/games/breaking-down-fortnite-s-ux/","title":"Breaking Down Fortnite's UX","tags":["design","tech","seeds"],"noteIcon":1,"created":"2024-11-30T20:41:36.947+01:00","updated":"2024-11-30T23:29:52.764+01:00"}
 ---
 
 
