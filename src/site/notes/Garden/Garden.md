@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-02T21:28:01.087+01:00"}
+{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-06T21:57:32.694+01:00"}
 ---
 
 # Garden
@@ -41,6 +41,8 @@
 		- [[Garden/Writing/Design/How to be a UX designer\|How to be a UX designer]]
 		- [[Garden/Writing/Design/Unintended Consequences of Design\|Unintended Consequences of Design]]
 	- **[[Garden/Writing/Series/Series\|Series]]**
+		- **[[Garden/Writing/Series/Building This Site/Building This Site\|Building This Site]]**
+			- [[Garden/Writing/Series/Building This Site/01 - Introduction\|01 - Introduction]]
 	- **[[Garden/Writing/Technical/Technical\|Technical]]**
 		- **[[Garden/Writing/Technical/How to?/How to?\|How to?]]**
 

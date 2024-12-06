@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/an-automated-story/","title":"An automated story","tags":["thoughts","tech"],"noteIcon":2,"created":"2024-11-30T20:41:36.946+01:00","updated":"2024-12-06T20:42:55.750+01:00"}
+{"dg-publish":true,"permalink":"/garden/journals/an-automated-story/","title":"An automated story","tags":["thoughts","tech"],"noteIcon":2,"created":"2024-11-30T20:41:36.946+01:00","updated":"2024-12-06T20:44:43.987+01:00"}
 ---
 
 
@@ -37,11 +37,6 @@ Please identify yourself.
 
 Thank you.
 
-```
-<div class="draftcallout">
-<img class="draftcalloutImage" src="a.jpg">
-</div>
-```
 
 
 #tech #thoughts
