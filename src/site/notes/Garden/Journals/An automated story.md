@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/an-automated-story/","title":"An automated story","tags":["thoughts","tech"],"noteIcon":2,"created":"2024-11-30T20:41:36.946+01:00","updated":"2024-11-30T22:52:34.394+01:00"}
+{"dg-publish":true,"permalink":"/garden/journals/an-automated-story/","title":"An automated story","tags":["thoughts","tech"],"noteIcon":2,"created":"2024-11-30T20:41:36.946+01:00","updated":"2024-12-06T20:36:06.584+01:00"}
 ---
 
 
@@ -36,5 +36,26 @@ Linux, The brother from the same mother (Unix), is the captain Rogers. You can m
 Please identify yourself.
 
 Thank you.
+
+```
+<style>  
+dev {
+	background-color: linen;
+	display:block;
+	justify-content:center
+	}  
+  
+img{ 
+	color: maroon;  
+	margin-left: 40px;
+	justify
+  }  
+</style>
+
+<div class="draftcallout">
+<img class="draftcalloutImage" src="a.jpg">
+</div>
+```
+
 
 #tech #thoughts
