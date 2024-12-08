@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/series/building-this-site/01-introduction/","noteIcon":1,"created":"2024-12-06T21:37:42.300+01:00","updated":"2024-12-06T22:16:51.567+01:00"}
+{"dg-publish":true,"permalink":"/garden/writing/series/building-this-site/01-introduction/","noteIcon":1,"created":"2024-12-06T21:37:42.300+01:00","updated":"2024-12-08T20:16:42.957+01:00"}
 ---
 
-<h1 style="font-size:36px;">01 Introduction</h1>
+# 01 - Introduction
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">

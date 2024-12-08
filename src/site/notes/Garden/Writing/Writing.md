@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/writing/","pinned":true,"noteIcon":"1","created":"2024-11-30T22:26:54.062+01:00","updated":"2024-12-06T21:57:32.694+01:00"}
+{"dg-publish":true,"permalink":"/garden/writing/writing/","pinned":true,"noteIcon":"1","created":"2024-11-30T22:26:54.062+01:00","updated":"2024-12-08T20:17:22.544+01:00"}
 ---
 
+# Writing
 
 - **[[Garden/Writing/Design/Design\|Design]]**
 	- [[Garden/Writing/Design/Design and Data\|Design and Data]]

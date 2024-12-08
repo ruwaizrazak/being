@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/design-responsibly/","title":"Design Responsibly","tags":["budding","design"],"noteIcon":2,"created":"2024-11-30T20:41:36.951+01:00","updated":"2024-11-30T22:51:27.377+01:00"}
+{"dg-publish":true,"permalink":"/garden/writing/design/design-responsibly/","title":"Design Responsibly","tags":["budding","design"],"noteIcon":2,"created":"2024-11-30T20:41:36.951+01:00","updated":"2024-12-08T20:15:48.029+01:00"}
 ---
 
-
+# Design Responsibly
 *A deep sense of love and belonging is an irreducible need of all women, men, and children. We are biologically, cognitively, physically and spiritually wired to love, to be loved and to belong. – Dr Brene Brown*
 
 As newer, innovative forms of technology get into design, its easy to get amused and carried away by the magic of what we created and to get detached ourselves from the human side of it.

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/design-and-data/","title":"Design and Data","tags":["design","budding"],"noteIcon":2,"created":"2024-11-30T20:41:36.950+01:00","updated":"2024-12-01T01:17:38.219+01:00"}
+{"dg-publish":true,"permalink":"/garden/writing/design/design-and-data/","title":"Design and Data","tags":["design","budding"],"noteIcon":2,"created":"2024-11-30T20:41:36.950+01:00","updated":"2024-12-08T20:15:21.732+01:00"}
 ---
 
-
+# Design and Data
 While I was working with multiple startup companies during the earlier stage of my career, I have heard statements like :
 
 - "I know my users"

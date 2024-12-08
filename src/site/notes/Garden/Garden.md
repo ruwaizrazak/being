@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-06T21:57:32.694+01:00"}
+{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-06T22:19:39.595+01:00"}
 ---
 
 # Garden

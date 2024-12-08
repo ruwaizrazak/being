@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/unintended-consequences-of-design/","title":"Unintended Consequences of Design","tags":["design","budding"],"noteIcon":3,"created":"2024-11-30T20:41:36.987+01:00","updated":"2024-11-30T22:51:43.645+01:00"}
+{"dg-publish":true,"permalink":"/garden/writing/design/unintended-consequences-of-design/","title":"Unintended Consequences of Design","tags":["design","budding"],"noteIcon":3,"created":"2024-11-30T20:41:36.987+01:00","updated":"2024-12-08T20:16:14.094+01:00"}
 ---
 
-
+# Unintended Consequences of Design
 How many times in your life have you wondered seeing the alternative possibilities of a particular product? We, humans are creative, we tend to find opportunities from every single thing that come across in our lives. Be it using Instagram for showcasing your merchandise, or checking internet availability by typing "google.com" in your browser.
 
 

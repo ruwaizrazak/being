@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/design/how-to-be-a-ux-designer/","title":"How to be a UX designer","tags":["budding","design"],"noteIcon":2,"created":"2024-11-30T20:41:36.962+01:00","updated":"2024-11-30T22:51:35.216+01:00"}
+{"dg-publish":true,"permalink":"/garden/writing/design/how-to-be-a-ux-designer/","title":"How to be a UX designer","tags":["budding","design"],"noteIcon":2,"created":"2024-11-30T20:41:36.962+01:00","updated":"2024-12-08T20:15:58.785+01:00"}
 ---
 
-
+# How to be a UX designer
 What exactly you do at work? How to be a user experience designer? So you use sketch or photoshop? These are some questions I've been asked whenever I tell people that I work as a user experience designer.
 
 As I'm from the gaming industry, I seldom bail out saying that I design games to those who really dont understand what user experience is (Yeah, that's bad, I know, Im working on it).
