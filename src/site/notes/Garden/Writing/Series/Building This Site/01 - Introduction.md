@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/garden/writing/series/building-this-site/01-introduction/","noteIcon":1,"created":"2024-12-06T21:37:42.300+01:00","updated":"2024-12-08T20:16:42.957+01:00"}
+{"dg-publish":true,"permalink":"/garden/writing/series/building-this-site/01-introduction/","noteIcon":1,"created":"2024-12-06T21:37:42.300+01:00","updated":"2024-12-08T22:20:48.882+01:00"}
 ---
-
-# 01 - Introduction
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
@@ -29,7 +27,13 @@ While all these platforms are great, I'm not a person who could write just like 
 
 This is where I had hard time in building using any of these platforms.
 
-Even though, I tried using [Windows Live Writer (Currently Discontinued)](https://en.wikipedia.org/wiki/Windows_Live_Writer)
+Even though, I tried using [Windows Live Writer (Currently Discontinued)](https://en.wikipedia.org/wiki/Windows_Live_Writer) initially and then moved to jekyll, which I liked, by the way and then moved to something else and never got to settle on a platform.
+
+## 2. Getting inspired
+Now, after couple of years (I know, Years...) I finally landed on a random blog which talks about the concept of digital garden and I got intrigued by it, and started searching for how to build a perfect platform and while I understand that the concept of *Perfect* doesnt exist, I started looking for some and what did I found? I found 🥁🥁🥁 [Maggie Appleton](https://maggieappleton.com/) and through her, I found some others as well including [Joel Hooks](https://joelhooks.com/digital-garden) (I will write about it in [[Garden/Wiki/Blogging/Digital Garden\|Digital Garden]])
+
+## 3. What am I doing now?
+Well, for starters, Im looking at how others are building their portfolio and started collecting the perfect pieces I liked from each of the websites. for eg: I took the wiki structure from [Tom Critchlow](https://tomcritchlow.com/wiki/) and the Garden design from [Maggie Appleton](https://maggieappleton.com/garden) and will keep on looking for how to improve the design.
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; height:350px;">

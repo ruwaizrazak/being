@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-06T22:19:39.595+01:00"}
+{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-08T20:41:46.063+01:00"}
 ---
 
-# Garden
+## A collection of essays, notes, talks, podcasts, and half-baked explorations I'm always tending to.
 
 - **[[Garden/Journals/Journals\|Journals]]**
 	- [[Garden/Journals/An automated story\|An automated story]]

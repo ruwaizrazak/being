@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/journals/fate/","title":"Fate","tags":["thoughts","seedling"],"noteIcon":1,"created":"2024-11-30T20:41:36.952+01:00","updated":"2024-11-30T22:52:45.849+01:00"}
+{"dg-publish":true,"permalink":"/garden/journals/fate/","title":"Fate","tags":["thoughts","seedling"],"noteIcon":1,"created":"2024-11-30T20:41:36.952+01:00","updated":"2024-12-08T20:35:21.521+01:00"}
 ---
 
 
@@ -16,5 +16,3 @@ America’s greatest president Abraham Lincoln, got failed in number of election
 Thats the beauty about all these. We doesn’t even know whats gonna happen next, we doesn’t know when our handwork gonna pay back? but the only thing we know is it will pay off, one day.
 
 It may take time until the pay off. but the real thing is what you gonna do until then? curse your fate and raise blood pressure? or keep faith in your fate? does worrying too much gonna change your fate? does it really matters? then why are you worrying? stop it and play it cool.
-
-#thoughts [[Garden/Journals/Childhood\|Childhood]]
