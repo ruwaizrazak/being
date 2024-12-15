@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-08T20:41:46.063+01:00"}
+{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-08T22:30:21.363+01:00"}
 ---
 
 ## A collection of essays, notes, talks, podcasts, and half-baked explorations I'm always tending to.
@@ -13,6 +13,7 @@
 	- **[[Garden/Journals/Now/Now\|Now]]**
 	- [[Garden/Journals/Procastination\|Procastination]]
 	- [[Garden/Journals/Road to Decentralization\|Road to Decentralization]]
+	- [[Garden/Journals/The swing route\|The swing route]]
 	- [[Garden/Journals/The unvowed future\|The unvowed future]]
 	- [[Garden/Journals/The Validation Trap\|The Validation Trap]]
 	- [[Garden/Journals/TheJourney\|TheJourney]]
