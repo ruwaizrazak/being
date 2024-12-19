@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/wiki/tech/ux-engineer/","title":"UX Engineering, A golden goose?","tags":["thoughts","design"],"noteIcon":1,"created":"2024-11-30T20:41:36.991+01:00","updated":"2024-12-01T16:08:48.935+01:00"}
+{"dg-publish":true,"permalink":"/garden/wiki/tech/ux-engineer/","title":"UX Engineering, A golden goose?","tags":["tech"],"noteIcon":1,"created":"2024-11-30T20:41:36.991+01:00","updated":"2024-12-15T17:59:36.656+01:00"}
 ---
 
 

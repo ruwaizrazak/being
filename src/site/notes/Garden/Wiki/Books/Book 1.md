@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/wiki/books/book-1/","tags":["book"],"noteIcon":"1","created":"2024-12-19T20:06:09.792+01:00","updated":"2024-12-19T20:11:07.241+01:00"}
+{"dg-publish":true,"permalink":"/garden/wiki/books/book-1/","tags":["book"],"noteIcon":"1","created":"2024-12-19T20:06:09.792+01:00","updated":"2024-12-19T20:21:05.282+01:00"}
 ---
 
 

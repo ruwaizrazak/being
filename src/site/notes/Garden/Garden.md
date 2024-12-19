@@ -1,15 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-19T20:07:19.066+01:00"}
+{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-19T20:29:05.635+01:00"}
 ---
 
 ## A collection of essays, notes, talks, podcasts, and half-baked explorations I'm always tending to.
 
+- **[[Garden/Essays/Essays\|Essays]]**
+	- **[[Garden/Wiki/Design/Design\|Design]]**
+		- [[Garden/Essays/Design/Design and Data\|Design and Data]]
+		- [[Garden/Essays/Design/Design Responsibly\|Design Responsibly]]
+		- [[Garden/Essays/Design/How to be a UX designer\|How to be a UX designer]]
+		- [[Garden/Essays/Design/Unintended Consequences of Design\|Unintended Consequences of Design]]
+	- **[[Garden/Essays/Series/Series\|Series]]**
+		- **[[Garden/Essays/Series/Building This Site/Building This Site\|Building This Site]]**
+			- [[Garden/Essays/Series/Building This Site/01 - Introduction\|01 - Introduction]]
+	- **[[Garden/Essays/Technical/Technical\|Technical]]**
+		- **[[Garden/Essays/Technical/How to?/How to?\|How to?]]**
 - **[[Garden/Journals/Journals\|Journals]]**
 	- [[Garden/Journals/An automated story\|An automated story]]
 	- [[Garden/Journals/Childhood\|Childhood]]
 	- [[Garden/Journals/Death\|Death]]
 	- [[Garden/Journals/Fate\|Fate]]
-	- [[Home\|home]]
+	- [[Garden/Journals/home\|home]]
 	- **[[Garden/Journals/Now/Now\|Now]]**
 	- [[Garden/Journals/Procastination\|Procastination]]
 	- [[Garden/Journals/Road to Decentralization\|Road to Decentralization]]
@@ -36,16 +47,5 @@
 	- **[[Garden/Wiki/Tech/Tech\|Tech]]**
 		- [[Garden/Wiki/Tech/UX Engineer\|UX Engineer]]
 	- **[[Garden/Wiki/Uncategorized Notes/Uncategorized Notes\|Uncategorized Notes]]**
-- **[[Garden/Writing/Writing\|Writing]]**
-	- **[[Garden/Wiki/Design/Design\|Design]]**
-		- [[Garden/Writing/Design/Design and Data\|Design and Data]]
-		- [[Garden/Writing/Design/Design Responsibly\|Design Responsibly]]
-		- [[Garden/Writing/Design/How to be a UX designer\|How to be a UX designer]]
-		- [[Garden/Writing/Design/Unintended Consequences of Design\|Unintended Consequences of Design]]
-	- **[[Garden/Writing/Series/Series\|Series]]**
-		- **[[Garden/Writing/Series/Building This Site/Building This Site\|Building This Site]]**
-			- [[Garden/Writing/Series/Building This Site/01 - Introduction\|01 - Introduction]]
-	- **[[Garden/Writing/Technical/Technical\|Technical]]**
-		- **[[Garden/Writing/Technical/How to?/How to?\|How to?]]**
 
 
