@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","pinned":true,"contentClasses":"index","noteIcon":3,"created":"2024-12-19T20:24:07.462+01:00","updated":"2024-12-19T21:00:51.436+01:00"}
+{"dg-publish":true,"permalink":"/index/","pinned":true,"contentClasses":"index","tags":["gardenEntry"],"noteIcon":3,"created":"2024-12-19T20:24:07.462+01:00","updated":"2024-12-19T21:02:12.952+01:00"}
 ---
 
 # Curious, Multidisciplinary ==Designer.==
