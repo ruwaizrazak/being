@@ -1,11 +1,13 @@
-$bg-color: #f6f5f1;
-$bg-color-container: hsl(48, 22%, 98%);
-$bg-color-border: hsl(48, 22%, 95%);
-$bg-color-darker:#c3a6a0;
-$text-highlight-color:#a15c38;
-$darker-color:#353534;
-$link-color:#960462;
-
+$bg-color: #FAF7F0;
+$bg-color-container:hsl(42, 50%, 92%);
+$bg-color-border: hsl(42, 50%, 94%);
+$bg-color-darker:#D8D2C2;
+$text-highlight-color:#B17457;
+$darker-color:#4A4947;
+$link-color:#B17457;
+$bodyfont:"Geist",sans-serif;
+$headerfont:"Libre Caslon Text",serif;
+$highlightTextFont:"Caveat",cursive;
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -18,19 +20,15 @@ body {
     //  h1 {
     //   color: black;
     //  }
-
-    .foldernote{
-      h1{
-        font-size: 32px !important;
-      }
-
-    }
 }
 .human-date{
   color: $text-highlight-color;
 }
-p,a {
-  font-family: "Geist", sans-serif;
+.navbar{
+  background-color: $bg-color-container;
+}
+p,a,li {
+  font-family:$bodyfont;
   font-style: normal;
   font-weight: 400;
   color: $darker-color;
@@ -45,9 +43,20 @@ p{
     unicode-bidi: isolate;
 }
 a{
-  font-weight: 18px;
+  font-weight: 500;
   color:$link-color !important;
+  :hover{
+    text-underline-offset: -100px !important;
+  }
+  ::after{
+
+  }
+
 }
+::marker {
+  color: $darker-color !important;
+}
+
 .backlink-title{
   @extend p;
   font-weight: 600;
@@ -74,22 +83,24 @@ a{
     h5,
     h6 {
       @extend p;
-      font-weight: 200;
-      font-size: 2em;
+      font-family: $headerfont !important;
+      font-weight: 400;
     }
     h1{
+      font-family: $highlightTextFont !important;
       display: block;
-      font-size: 1.17em;
+      font-size: 2em;
       margin-block-start: 1em;
       margin-block-end: 1em;
       margin-inline-start: 0px;
       margin-inline-end: 0px;
     }
     h2 {
+      font-family: $highlightTextFont !important;
       display: block;
       font-size: 1.5em;
-      margin-block-start: 0.83em;
-      margin-block-end: 0.83em;
+      margin-block-start: 2em;
+      margin-block-end: 0em;
       margin-inline-start: 0px;
       margin-inline-end: 0px;
       font-weight: bold;
@@ -99,7 +110,7 @@ a{
         display: block;
         font-size: 1.17em;
         margin-block-start: 1em;
-        margin-block-end: 1em;
+        margin-block-end: 0em;
         margin-inline-start: 0px;
         margin-inline-end: 0px;
         font-weight: bold;
@@ -109,6 +120,13 @@ a{
       background:$bg-color-darker;
       color: $bg-color;
       margin-right: 20px;
+    }
+    .timestamps {
+      display: flex;
+      flex-direction: row;
+      font-size: .8em;
+      gap: 10px;
+      margin-top: 0px !important;
     }
     .alert{
           background: $bg-color-container;
