@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-08T22:30:21.363+01:00"}
+{"dg-publish":true,"permalink":"/garden/garden/","pinned":true,"contentClasses":"foldernote","noteIcon":3,"created":"2024-12-01T18:58:02.093+01:00","updated":"2024-12-19T20:07:19.066+01:00"}
 ---
 
 ## A collection of essays, notes, talks, podcasts, and half-baked explorations I'm always tending to.
@@ -24,6 +24,7 @@
 		- [[Garden/Wiki/Blogging/Digital Garden\|Digital Garden]]
 		- [[Garden/Wiki/Blogging/Perfect System\|Perfect System]]
 	- **[[Garden/Wiki/Books/Books\|Books]]**
+		- [[Garden/Wiki/Books/Book 1\|Book 1]]
 	- **[[Garden/Wiki/Design/Design\|Design]]**
 		- [[Garden/Wiki/Design/Things I learned as a self taught designer\|Things I learned as a self taught designer]]
 	- **[[Garden/Wiki/Games/Games\|Games]]**
