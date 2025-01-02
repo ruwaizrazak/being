@@ -1,11 +1,11 @@
-$bg-color: #FAF7F0;
-$bg-color-container:hsl(42, 50%, 92%);
-$bg-color-border: hsl(42, 50%, 94%);
-$bg-color-darker:#D8D2C2;
+$bg-color: #ffffff;
+$bg-color-container:hsl(0, 0%, 100%);
+$bg-color-border: hsl(0, 0%, 100%);
+$bg-color-darker:#ffffff;
 $text-highlight-color:#B17457;
 $darker-color:#4A4947;
 $link-color:#B17457;
-$bodyfont:"Geist",sans-serif;
+$bodyfont:"Lato",serif;;
 $headerfont:"Libre Caslon Text",serif;
 $highlightTextFont:"Caveat",cursive;
 body {
@@ -87,7 +87,7 @@ a{
       font-weight: 400;
     }
     h1{
-      font-family: $highlightTextFont !important;
+      font-family: $headerfont !important;
       display: block;
       font-size: 2em;
       margin-block-start: 1em;
@@ -96,7 +96,7 @@ a{
       margin-inline-end: 0px;
     }
     h2 {
-      font-family: $highlightTextFont !important;
+      font-family: $headerfont !important;
       display: block;
       font-size: 1.5em;
       margin-block-start: 2em;
