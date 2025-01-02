@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","pinned":true,"noteIcon":3,"created":"2024-11-30T20:40:49.671+01:00","updated":"2024-12-19T21:02:29.746+01:00"}
+{"dg-publish":true,"permalink":"/about/","pinned":true,"tags":["gardenEntry"],"noteIcon":3,"created":"2024-11-30T20:40:49.671+01:00","updated":"2025-01-02T17:20:18.875+01:00"}
 ---
 
 ![hello.png](/img/user/Assets/hello.png)
