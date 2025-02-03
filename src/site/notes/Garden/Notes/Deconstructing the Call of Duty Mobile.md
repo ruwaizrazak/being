@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-02T14:04:12.928+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.000+01:00","updated":"2025-02-02T17:07:51.000+01:00"}
 ---
 
 <h1 style="font-size:32px">Deconstructing the Call of Duty Mobile</h1>
@@ -98,4 +98,107 @@ Even though there are lots of triggers for the users in Call of Duty, the key Ar
 4. King of the Hill
 
 
+### Skill Masters
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/u3yR8I0.png" style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0; padding:10px;">
+<p> Skill masters are the ones who sought to improve themselves over and over and often find themselves in seeking knowledge from several sources including forums, videos and developer documents.</p>
+<p>They will be aware about what are the changes happened to each of the weapons in the games for every update </p>
+</div>
+</div>
+
+### Thrill Seekers
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/jFhDFEV.png" style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0; padding:10px;">
+<p> Skill masters are the ones who sought to improve themselves over and over and often find themselves in seeking knowledge from several sources including forums, videos and developer documents.</p>
+<p>They will be aware about what are the changes happened to each of the weapons in the games for every update </p>
+</div>
+</div>
+
+### Networkers
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/vk6e7G4.png" style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<p> Networkers. Networking during the games were always been in existence using multiple means. There is a certain segment of Call Of Duty users who uses the game to connect with the people they know.</p>
+<p>These connection could be the people they knew outside the game or someone who they met through the game and remains within.</p>
+</div>
+</div>
+![]()
+. 
+
+### King of the Hill
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/YAGGxtc.png" style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<p> King of the hill is a shared archetype between most of the PvP games.</p>
+<p>These players enjoys the recognition resulting from their competitiveness. They use various identifiers to flaunt their expertise in the game. </p>
+<p>A straight example would be the usage of exclusive skins, or chasing Legendary in Ranked mode.<p>
+</div>
+</div>
+
+While expressionism remains one of the least motivation factor for the users, There are a certain group of user group who is interested in spending for personalization of player skins and weapon skins. 
+
+
+
+## Age and Gender distribution
+
+![](https://i.imgur.com/b3rBAGX.png)
+
+The age and gender distribution of CODM is in synonym with that of other battleroyale mobile games with Males being a huge population and the age group of 25-44 being the dominant group.
+
+Also, there are no surprises regarding the countries that provide more revenue with the United Status being on top.
+
+
+![](https://i.imgur.com/VSad5l5.png)
+
+## Scientific models behind User Retention
+
+As we are established that the CODM is doing better interms of Retention when compared into other games in the genre. Lets look into existing behaviour models that could serve as a guiding frame work for improving retention.
+1. Hook's Model
+2. Fogg's Model
+
+While we will explain how these models are being used in CODM, here is an over simplified version of the models to give you a context.
+### Hooks Model
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/RazNsmv.png" width=500px; style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<p> Hooked Model conceived by Nir Eyal describes that of a loop consists of four components. </p>
+
+<ol style="margin-left:0;padding-left:0;" ><b>Trigger:</b> Can be Internal or External</ol>
+<ol style="margin-left:0;padding-left:0;"><b>Action:</b> Action From the User</ol>
+<ol style="margin-left:0;padding-left:0;"><b>Reward:</b> Reward In return of the Action</ol>
+<ol style="margin-left:0;padding-left:0;"><b>Investment:</b> Action where user</ol>
+
+</div>
+</div>
+
+The above mentioned is an over simplification of Hook's model. If you are interested in learning more about the model, read from the Man himself [here](https://www.nirandfar.com/how-to-manufacture-desire/)
+
+### Fogg's model
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/0sbnfqE.png" width=400px; style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<p> The model defines a how a user's Motivation, Ability and Behaviour triggers could lead to target behaviour. </p>
+<blockquote>Targeted Behaviour = f(Motivation.Ability.Trigger)</blockquote>
+<p>That is, if user have to either work hard to acquire something without possessing enough motivation, the likelyhood of acquiring that is narrow.</p>
+</div>
+</div>
+
+The paper on the model is very detailed and can be referred [here](https://drive.google.com/file/d/19LYba4fuceGM3KhqxTXByV4msmb33t1o/view?usp=sharing)
 

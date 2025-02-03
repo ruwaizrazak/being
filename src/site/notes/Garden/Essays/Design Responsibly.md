@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/essays/design-responsibly/","title":"Design Responsibly","noteIcon":2,"created":"2024-11-30T20:41:36.951+01:00","updated":"2025-01-03T13:26:57.075+01:00"}
+{"dg-publish":true,"permalink":"/garden/essays/design-responsibly/","title":"Design Responsibly","noteIcon":2,"created":"2024-11-30T20:41:36.000+01:00","updated":"2025-01-03T13:26:57.000+01:00"}
 ---
 
 # Design Responsibly

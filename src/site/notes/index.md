@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","pinned":true,"contentClasses":"index","noteIcon":3,"created":"2024-12-19T20:24:07.462+01:00","updated":"2025-01-02T17:21:08.321+01:00"}
+{"dg-publish":true,"permalink":"/index/","pinned":true,"contentClasses":"index","noteIcon":3,"created":"2024-12-19T20:24:07.000+01:00","updated":"2025-01-02T17:21:08.000+01:00"}
 ---
 
 # Curious, Multidisciplinary ==Designer.==
@@ -10,9 +10,8 @@ My garden is a collection of essays, notes and lots of messy thought that might 
 
 ### Essays
 
-| Cover | file.link                                    | Started                                                 | Updated                                                 |
-| ----- | -------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
-| \-    | [[Garden/Wiki/Blogging/Bluesky\|Bluesky]] | <span class='cards-icon'>Started</span>2024-12-01 15:34 | <span class='cards-icon'>Updated</span>2024-12-01 15:34 |
+| Cover | file.link | Started | Updated |
+| ----- | --------- | ------- | ------- |
 
 { .block-language-dataview}
 

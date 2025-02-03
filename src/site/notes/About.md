@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/about/","pinned":true,"tags":["gardenEntry"],"noteIcon":3,"created":"2024-11-30T20:40:49.671+01:00","updated":"2025-01-02T17:20:18.875+01:00"}
+{"dg-publish":true,"permalink":"/about/","pinned":true,"tags":["gardenEntry"],"noteIcon":3,"created":"2024-11-30T20:40:49.000+01:00","updated":"2025-01-02T18:48:48.000+01:00"}
 ---
 
-![hello.png](/img/user/Assets/hello.png)
+
 ## ❓What is this?
 A repository that I've been wanting to build to log whatever I've absorbed through out my life. This could be the snippet of articles, videos and books that I've come across along with raw or slightly processed thoughts. To simplify, this is a *Knowledge aggregator* or a [*Digital Garden.*](https://maggieappleton.com/garden-history)
 

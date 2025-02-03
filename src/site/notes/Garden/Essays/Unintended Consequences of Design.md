@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/essays/unintended-consequences-of-design/","title":"Unintended Consequences of Design","noteIcon":3,"created":"2024-11-30T20:41:36.987+01:00","updated":"2025-01-03T13:27:08.865+01:00"}
+{"dg-publish":true,"permalink":"/garden/essays/unintended-consequences-of-design/","title":"Unintended Consequences of Design","noteIcon":3,"created":"2024-11-30T20:41:36.000+01:00","updated":"2025-01-03T13:27:08.000+01:00"}
 ---
 
 # Unintended Consequences of Design
