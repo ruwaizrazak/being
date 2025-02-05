@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-05T20:37:56.858+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-05T20:49:51.923+01:00"}
 ---
 
 d
@@ -256,7 +256,7 @@ The CODM has managed to cater to different level of audience and the levels of c
 
 With the introduction of these modes, what the developers have essentially done is to create a system that would initially cater the novice player and then to their improved versions who managed to master the controls over a period of time. (*Read more about how that could possibly happen [here](https://www.nngroup.com/articles/power-law-learning/)* and [here](https://www.nngroup.com/articles/usability-heuristics-applied-video-games/))
 
-In the advanced mode, the game provides user to set their HUD to their preference
+In the advanced mode, the game provides user to set HUD to their preference
 
 <div class="parent" style="display:flex; align-items:center;">
 <div class="imageleft" style="width:100%; max-width:500px; padding:10px">
@@ -269,6 +269,11 @@ In the advanced mode, the game provides user to set their HUD to their preferenc
 </div>
 </div>
 
+But an controls isnt everything in an FPS game. To be a good FPS player, one has to master Controls, World Navigation, Target Tracking/Engagement and analyze auditory feedbacks. 
+
+As the game is catered to a set of players who are heavily competitive as mentioned in the Archetypes, the game provides lots of avenues for mastery and as such, Auditory feedbacks are one of them.
+
+![](https://i.imgur.com/e7n2FM2.jpeg)
 
 
 
