@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-05T19:50:49.955+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-05T20:37:56.858+01:00"}
 ---
 
-<h1 style="font-size:32px">Deconstructing the Call of Duty Mobile</h1>
-
-
+d
 ![Pasted image 20250201173852.png](/img/user/Pasted%20image%2020250201173852.png)
 
 
@@ -240,5 +238,37 @@ The game despite coming from the franchise, looks greatly like the rest of them 
 
 
 While the game looks astonishing, the developers also considered about making the game accessible to [mid/low level performance](https://developer.samsung.com/galaxy-gamedev/gamedev-blog/cod.html) devices and provides controls to users over graphics.
+
 ![](https://i.imgur.com/lW8lXBr.jpeg)
+
+*Can you believe that these controls are from a mobile game?*
+
+### Controls
+The Call of Duty, being an FPS requires frequent and often a combination of inputs to ensure optimal gameplay.
+
+Until PUBGM, the industry has seen FPS games utilizing gamepads or keyboards and one of the crucial aspect when games get ported to mobile devices, is simplifying the controls and while doing so, killing the depth of the game.
+
+The CODM has managed to cater to different level of audience and the levels of control they would require by designing two types of controls
+1. Simple Mode
+2. Advanced Mode
+
+![](https://i.imgur.com/MQthWsq.jpeg)
+
+With the introduction of these modes, what the developers have essentially done is to create a system that would initially cater the novice player and then to their improved versions who managed to master the controls over a period of time. (*Read more about how that could possibly happen [here](https://www.nngroup.com/articles/power-law-learning/)* and [here](https://www.nngroup.com/articles/usability-heuristics-applied-video-games/))
+
+In the advanced mode, the game provides user to set their HUD to their preference
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/GswRqMg.jpeg" style="width:100%; max-width:500px; min-width:300px;">
+<p>Which could start like this. An Abomination, I know :) </p>
+</div>
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/1vvycLC.jpeg" style="width:100%; max-width:500px; min-width:300px;">
+<p>To this or whatever way it would make you play better.</p>
+</div>
+</div>
+
+
+
 
