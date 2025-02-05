@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.000+01:00","updated":"2025-02-02T17:07:51.000+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-05T19:50:49.955+01:00"}
 ---
 
 <h1 style="font-size:32px">Deconstructing the Call of Duty Mobile</h1>
@@ -201,4 +201,44 @@ The above mentioned is an over simplification of Hook's model. If you are intere
 </div>
 
 The paper on the model is very detailed and can be referred [here](https://drive.google.com/file/d/19LYba4fuceGM3KhqxTXByV4msmb33t1o/view?usp=sharing)
+
+## How does Call of Duty Mobile Attract and Retain users?
+Even though there are multiple First Person Shooting games such as PUBG and the prematurely dead Apex Legend Mobile, the CODM is showing tremendous numbers in terms of KPIs and we believe the numbers are coming as a result of Franchise, Aesthetics, Controls, Gameplay, Social and Session Design.
+
+### The Franchise
+![](https://i.imgur.com/pchpTou.png)
+
+The call of duty franchise have a huge set of players and considering the targeted Age group of 25-44, The publisher, Timi has considered this heavily. 
+
+The Mobile version is reminiscent of the previous games in the franchise by using the familiar characters, maps and weapons.
+
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/RZ6I5T4.png" style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<p>The Nostalgia factor is further enhanced by the usage of characters such as Ghost, Price, Frost and even the antagonists.</p>
+</div>
+</div>
+
+### Aesthetics
+
+Do you know that users often perceive aesthetically pleasing design as a design that's more usable? Okay, I didnt say that, but [Aesthetic Usability Effect](https://lawsofux.com/aesthetic-usability-effect/) did.
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
+	<div style="display: flex; flex-direction: row; justify-content: space-between;">
+		<div>
+		<blockquote style="text-align:left;color:#3a3b36;flex:60%">"An aesthetically pleasing design creates a positive response in people’s brains and leads them to believe the design actually works better."</blockquote></div>
+		
+	</div>
+</div>
+
+The game despite coming from the franchise, looks greatly like the rest of them boasting a visually pleasing aesthetic. One could often wonder that a device that fits in the hand could run a game that provides console like experience. 
+
+![](https://i.imgur.com/AO9L6CZ.png)
+
+
+While the game looks astonishing, the developers also considered about making the game accessible to [mid/low level performance](https://developer.samsung.com/galaxy-gamedev/gamedev-blog/cod.html) devices and provides controls to users over graphics.
+![](https://i.imgur.com/lW8lXBr.jpeg)
 
