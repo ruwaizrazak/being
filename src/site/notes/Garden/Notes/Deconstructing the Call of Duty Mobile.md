@@ -1,9 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-05T20:49:51.923+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.000+01:00","updated":"2025-02-07T10:22:37.893+01:00"}
 ---
 
-d
+
 ![Pasted image 20250201173852.png](/img/user/Pasted%20image%2020250201173852.png)
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
+	<div style="display: flex; flex-direction: row; justify-content: space-between; align-items:center;">
+		<p style="color:blue; font-weight:bold;flex:40%; padding:10px;">Targeted Audience</p>
+		<div>
+		<p style="text-align:left;color:#3a3b36;flex:60%">This document is built for those who are interested in the experience aspect of the game minus the game economy. 🤓 </p></div>
+		
+	</div>
+</div>
+
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; height:350px;">
@@ -201,7 +210,7 @@ The above mentioned is an over simplification of Hook's model. If you are intere
 The paper on the model is very detailed and can be referred [here](https://drive.google.com/file/d/19LYba4fuceGM3KhqxTXByV4msmb33t1o/view?usp=sharing)
 
 ## How does Call of Duty Mobile Attract and Retain users?
-Even though there are multiple First Person Shooting games such as PUBG and the prematurely dead Apex Legend Mobile, the CODM is showing tremendous numbers in terms of KPIs and we believe the numbers are coming as a result of Franchise, Aesthetics, Controls, Gameplay, Social and Session Design.
+Even though there are multiple First Person Shooting games such as PUBG and the prematurely dead Apex Legend Mobile, the CODM is showing tremendous numbers in terms of KPIs and we believe the numbers are coming as a result of **Franchise**, **Aesthetics**, **Controls**, **Gameplay**, **Social** and **Session Design**.
 
 ### The Franchise
 ![](https://i.imgur.com/pchpTou.png)
@@ -232,7 +241,7 @@ Do you know that users often perceive aesthetically pleasing design as a design 
 	</div>
 </div>
 
-The game despite coming from the franchise, looks greatly like the rest of them boasting a visually pleasing aesthetic. One could often wonder that a device that fits in the hand could run a game that provides console like experience. 
+The game looks greatly like the rest of them boasting a visually pleasing aesthetic. One could often wonder that a device that fits in the hand could run a game that provides console like experience. 
 
 ![](https://i.imgur.com/AO9L6CZ.png)
 
@@ -269,11 +278,14 @@ In the advanced mode, the game provides user to set HUD to their preference
 </div>
 </div>
 
-But an controls isnt everything in an FPS game. To be a good FPS player, one has to master Controls, World Navigation, Target Tracking/Engagement and analyze auditory feedbacks. 
+But an controls isnt everything in an FPS game. To be a good FPS player, one has to master Controls, World Navigation, Target Tracking/Engagement and respond to auditory feedbacks. 
 
 As the game is catered to a set of players who are heavily competitive as mentioned in the Archetypes, the game provides lots of avenues for mastery and as such, Auditory feedbacks are one of them.
 
 ![](https://i.imgur.com/e7n2FM2.jpeg)
 
+#### Types of Auditory Feedbacks and how CODM utilizes them.
+##### 1. Sound Effects
+Sound effects can be footsteps, gun shot, fire, door opening sounds and the players are expected to master the auditory feedbacks if one wants to master the game.
 
-
+![](https://i.imgur.com/eO7JTXo.png)
