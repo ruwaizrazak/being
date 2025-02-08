@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.000+01:00","updated":"2025-02-07T10:22:37.893+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-08T18:55:51.054+01:00"}
 ---
 
 
@@ -175,7 +175,7 @@ As we are established that the CODM is doing better interms of Retention when co
 2. Fogg's Model
 
 While we will explain how these models are being used in CODM, here is an over simplified version of the models to give you a context.
-### Hooks Model
+#### Hooks Model
 
 <div class="parent" style="display:flex; align-items:center;">
 <div class="imageleft">
@@ -194,7 +194,7 @@ While we will explain how these models are being used in CODM, here is an over s
 
 The above mentioned is an over simplification of Hook's model. If you are interested in learning more about the model, read from the Man himself [here](https://www.nirandfar.com/how-to-manufacture-desire/)
 
-### Fogg's model
+#### Fogg's model
 
 <div class="parent" style="display:flex; align-items:center;">
 <div class="imageleft">
@@ -230,7 +230,6 @@ The Mobile version is reminiscent of the previous games in the franchise by usin
 </div>
 
 ### Aesthetics
-
 Do you know that users often perceive aesthetically pleasing design as a design that's more usable? Okay, I didnt say that, but [Aesthetic Usability Effect](https://lawsofux.com/aesthetic-usability-effect/) did.
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
@@ -252,14 +251,89 @@ While the game looks astonishing, the developers also considered about making th
 
 *Can you believe that these controls are from a mobile game?*
 
+Apart from looking "Cool", the main goal for the UI is to communicate information to the players and this is done via feedbacks. Feedbacks provide players important things such as judgement, reward, instruction, and challenge. 
+
+<blockquote>“Without conveying to the player the state of the game, there is no game”. - Saunders & Novak 2007</blockquote>
+
+The Call of duty Mobile uses 3 types of visual feedbacks to convey information to the players.
+
+#### 1. 2D Overlay - A.k.a HUD elements
+![](https://i.imgur.com/1w8D2oo.png)
+
+These elements are super imposed to the screen to convey:
+1. Health, 
+2. Direction, 
+3. Number of kills and 
+4. How close the player is to victory.
+
+#### 2. Filtered Graphics
+Filtered graphics are used to convey the player getting hits, It can be:
+1. Gun shots,
+2. Explosion,
+3. Concussion 
+
+![](https://i.imgur.com/rz5be4P.png)
+
+#### 3. In the game World
+
+These are more subtle and natural indicators reminiscent of real world conveying a priori information
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/yHOHwE8.png" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>The game uses flames on a vehicle to indicate that they are about to explode</p>
+</div>
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/PCAIVYC.png" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>And the broken state to convey that the vehicle is unusable.</p>
+</div>
+</div>
+
+#### Types of Auditory Feedbacks and how CODM utilizes them.
+
+Audio is one of the most powerful elements of a game. and it is considered to be as essential as the visual information provided within an interface as it communicates to the user about things they cannot see, and does this while their focus is elsewhere.
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
+	<div style="display: flex; flex-direction: row; justify-content: space-between; border-left: 1px">
+		<div>
+		<blockquote style="text-align:left;color:#3a3b36;flex:60%; font-style:italic;">“Audio provides another avenue for the game to communicate with the player, and it’s particularly useful for eliminating ambiguity, providing feedback without interrupting the gameplay, reinforcing visual effects and creating atmosphere”. 
+
+		- (K. Saunders & Novak, 2007)</blockquote></div>
+		
+	</div>
+</div>
+
+##### 1. Sound Effects
+Sound effects can be footsteps, gun shot, fire, door opening sounds and the players are expected to master the auditory feedbacks if one wants to master the game.
+
+![](https://i.imgur.com/eO7JTXo.png)
+
+The game however, provides visual indicators for auditory feedbacks to ensure accessibility.
+
+##### 2. Dynamic Soundtrack
+The game also uses soundtracks to build up distractions and ambient tones based on the situation. 
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/zX0j0Ph.png" style="padding-top:0;margin-top:0;">
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<h5>K9 Units In BattlePass </h5>
+<p> Usage of the K9 units will play a loud and omnious sound track for the opponent along with the barking of the Dogs. </p>
+<p>These sound tracks are meant as a medium to distract the opponents from the players and cover their footsteps.</p>
+</div>
+</div>
+
+
 ### Controls
+Controls are imminent for the communication between game and the player as it provides the player with the control over what is happening in the game world or UI.
+
 The Call of Duty, being an FPS requires frequent and often a combination of inputs to ensure optimal gameplay.
 
 Until PUBGM, the industry has seen FPS games utilizing gamepads or keyboards and one of the crucial aspect when games get ported to mobile devices, is simplifying the controls and while doing so, killing the depth of the game.
 
 The CODM has managed to cater to different level of audience and the levels of control they would require by designing two types of controls
-1. Simple Mode
-2. Advanced Mode
+4. Simple Mode
+5. Advanced Mode
 
 ![](https://i.imgur.com/MQthWsq.jpeg)
 
@@ -284,8 +358,6 @@ As the game is catered to a set of players who are heavily competitive as mentio
 
 ![](https://i.imgur.com/e7n2FM2.jpeg)
 
-#### Types of Auditory Feedbacks and how CODM utilizes them.
-##### 1. Sound Effects
-Sound effects can be footsteps, gun shot, fire, door opening sounds and the players are expected to master the auditory feedbacks if one wants to master the game.
+### Optimized Game Difficulty
 
-![](https://i.imgur.com/eO7JTXo.png)
+
