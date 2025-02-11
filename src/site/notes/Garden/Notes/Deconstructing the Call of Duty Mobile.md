@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-08T18:55:51.054+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.000+01:00","updated":"2025-02-09T17:21:27.000+01:00"}
 ---
 
 
@@ -289,6 +289,7 @@ These are more subtle and natural indicators reminiscent of real world conveying
 </div>
 
 #### Types of Auditory Feedbacks and how CODM utilizes them.
+![](https://i.imgur.com/e7n2FM2.jpeg)
 
 Audio is one of the most powerful elements of a game. and it is considered to be as essential as the visual information provided within an interface as it communicates to the user about things they cannot see, and does this while their focus is elsewhere.
 
@@ -332,8 +333,9 @@ The Call of Duty, being an FPS requires frequent and often a combination of inpu
 Until PUBGM, the industry has seen FPS games utilizing gamepads or keyboards and one of the crucial aspect when games get ported to mobile devices, is simplifying the controls and while doing so, killing the depth of the game.
 
 The CODM has managed to cater to different level of audience and the levels of control they would require by designing two types of controls
-4. Simple Mode
-5. Advanced Mode
+
+1. Simple Mode
+2. Advanced Mode
 
 ![](https://i.imgur.com/MQthWsq.jpeg)
 
@@ -351,13 +353,30 @@ In the advanced mode, the game provides user to set HUD to their preference
 <p>To this or whatever way it would make you play better.</p>
 </div>
 </div>
-
 But an controls isnt everything in an FPS game. To be a good FPS player, one has to master Controls, World Navigation, Target Tracking/Engagement and respond to auditory feedbacks. 
 
-As the game is catered to a set of players who are heavily competitive as mentioned in the Archetypes, the game provides lots of avenues for mastery and as such, Auditory feedbacks are one of them.
+As the game is catered to a set of players who are heavily competitive as mentioned in the Archetypes, the game provides lots of avenues for mastery.
 
-![](https://i.imgur.com/e7n2FM2.jpeg)
+
 
 ### Optimized Game Difficulty
+Difficulty in games are a crucial elements for game retention. The Audience base could get very slim if the game aims for a high difficulty and hence the difficulty can be tuned dynamically.
+
+To address the same, CODM uses bots in the initial tiers so that the new players would have less intimidating start.
+
+Moreover, filling matches with bots guarantees that players wont be waiting too long in the lobbies ensuring fast paced, action packed ambience thats inherent for the COD franchise lovers.
+
+Hence, players will find themselves matched with lots of bots, resulting in lots of rewards and progressions for the early stages and slowly they new players are ramped with established players as they rank up.
+
+![](https://i.imgur.com/ENkMzIH.png)
 
 
+### How meta loop is contributing to retention?
+While CODM coreloop consists of **Playing games -> Gain Experiences -> Unlock Rewards and Level up**, It is supported by a range of meta loop that would cater to different archetypes of the audience base.
+
+1. Tournaments
+2. Ranked Modes in Multiplayers and BR
+3. Battle Royale
+4. Quest System aka Challenges
+
+#### Tournaments
