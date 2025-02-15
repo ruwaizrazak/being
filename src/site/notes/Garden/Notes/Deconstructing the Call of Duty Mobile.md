@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:34:12.273+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:49:14.263+01:00"}
 ---
 
 
 ![Pasted image 20250201173852.png](/img/user/Pasted%20image%2020250201173852.png)
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
+<div style="align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
 	<div style="display: flex; flex-direction: row; justify-content: space-between; align-items:center;">
-		<p style="color:blue; font-weight:bold;flex:40%; padding:10px;">Targeted Audience</p>
+		<p style="color:blue; font-weight:bold;flex-basis:40%; padding:10px;">Targeted Audience</p>
 		<div>
-		<p style="text-align:left;color:#3a3b36;flex:60%">This document is built for those who are interested in the experience aspect of the game minus the game economy. 🤓 </p></div>
+		<p style="text-align:left;color:#3a3b36;flex-basis:60%">This document is built for those who are interested in the experience aspect of the game minus the game economy. 🤓 </p></div>
 		
 	</div>
 </div>
@@ -106,33 +106,33 @@ Even though there are lots of triggers for the users in Call of Duty, the key Ar
 
 
 ### Skill Masters
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/u3yR8I0.png" style="padding-top:0;margin-top:0;">
 </div>
-<div class="textright" style="display:block; margin-top:0; padding:10px;">
+<div style="display:block; margin-top:0; padding:10px;">
 <p> Skill masters are the ones who sought to improve themselves over and over and often find themselves in seeking knowledge from several sources including forums, videos and developer documents.</p>
 <p>They will be aware about what are the changes happened to each of the weapons in the games for every update </p>
 </div>
 </div>
 
 ### Thrill Seekers
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/jFhDFEV.png" style="padding-top:0;margin-top:0;">
 </div>
-<div class="textright" style="display:block; margin-top:0; padding:10px;">
+<div style="display:block; margin-top:0; padding:10px;">
 <p> Skill masters are the ones who sought to improve themselves over and over and often find themselves in seeking knowledge from several sources including forums, videos and developer documents.</p>
 <p>They will be aware about what are the changes happened to each of the weapons in the games for every update </p>
 </div>
 </div>
 
 ### Networkers
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/vk6e7G4.png" style="padding-top:0;margin-top:0;">
 </div>
-<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<div style="display:block; margin-top:0;padding:10px;">
 <p> Networkers. Networking during the games were always been in existence using multiple means. There is a certain segment of Call Of Duty users who uses the game to connect with the people they know.</p>
 <p>These connection could be the people they knew outside the game or someone who they met through the game and remains within.</p>
 </div>
@@ -142,11 +142,11 @@ Even though there are lots of triggers for the users in Call of Duty, the key Ar
 
 ### King of the Hill
 
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/YAGGxtc.png" style="padding-top:0;margin-top:0;">
 </div>
-<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<div style="display:block; margin-top:0;padding:10px;">
 <p> King of the hill is a shared archetype between most of the PvP games.</p>
 <p>These players enjoys the recognition resulting from their competitiveness. They use various identifiers to flaunt their expertise in the game. </p>
 <p>A straight example would be the usage of exclusive skins, or chasing Legendary in Ranked mode.<p>
@@ -196,11 +196,11 @@ The above mentioned is an over simplification of Hook's model. If you are intere
 
 #### Fogg's model
 
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/0sbnfqE.png" width=400px; style="padding-top:0;margin-top:0;">
 </div>
-<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<div style="display:block; margin-top:0;padding:10px;">
 <p> The model defines a how a user's Motivation, Ability and Behaviour triggers could lead to target behaviour. </p>
 <blockquote>Targeted Behaviour = f(Motivation.Ability.Trigger)</blockquote>
 <p>That is, if user have to either work hard to acquire something without possessing enough motivation, the likelyhood of acquiring that is narrow.</p>
@@ -220,11 +220,11 @@ The call of duty franchise have a huge set of players and considering the target
 The Mobile version is reminiscent of the previous games in the franchise by using the familiar characters, maps and weapons.
 
 
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<di style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/RZ6I5T4.png" style="padding-top:0;margin-top:0;">
 </div>
-<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<div style="display:block; margin-top:0;padding:10px;">
 <p>The Nostalgia factor is further enhanced by the usage of characters such as Ghost, Price, Frost and even the antagonists.</p>
 </div>
 </div>
@@ -235,7 +235,7 @@ Do you know that users often perceive aesthetically pleasing design as a design 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
 	<div style="display: flex; flex-direction: row; justify-content: space-between;">
 		<div>
-		<blockquote style="text-align:left;color:#3a3b36;flex:60%">"An aesthetically pleasing design creates a positive response in people’s brains and leads them to believe the design actually works better."</blockquote></div>
+		<blockquote style="color:#3a3b36;flex-basis:60%">"An aesthetically pleasing design creates a positive response in people’s brains and leads them to believe the design actually works better."</blockquote></div>
 		
 	</div>
 </div>
@@ -277,12 +277,12 @@ Filtered graphics are used to convey the player getting hits, It can be:
 #### 3. In the game World
 
 These are more subtle and natural indicators reminiscent of real world conveying a priori information
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<div style="display:flex; align-items:center;">
+<div style="width:100%; max-width:500px; padding:10px">
 <img src="https://i.imgur.com/yHOHwE8.png" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
 <p>The game uses flames on a vehicle to indicate that they are about to explode</p>
 </div>
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<div style="width:100%; max-width:500px; padding:10px">
 <img src="https://i.imgur.com/PCAIVYC.png" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
 <p>And the broken state to convey that the vehicle is unusable.</p>
 </div>
@@ -296,7 +296,7 @@ Audio is one of the most powerful elements of a game. and it is considered to be
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
 	<div style="display: flex; flex-direction: row; justify-content: space-between; border-left: 1px">
 		<div>
-		<blockquote style="text-align:left;color:#3a3b36;flex:60%; font-style:italic;">“Audio provides another avenue for the game to communicate with the player, and it’s particularly useful for eliminating ambiguity, providing feedback without interrupting the gameplay, reinforcing visual effects and creating atmosphere”. 
+		<blockquote style="color:#3a3b36; flex-basis:60%; font-style:italic;">“Audio provides another avenue for the game to communicate with the player, and it’s particularly useful for eliminating ambiguity, providing feedback without interrupting the gameplay, reinforcing visual effects and creating atmosphere”. 
 
 		- (K. Saunders & Novak, 2007)</blockquote></div>
 		
@@ -313,11 +313,11 @@ The game however, provides visual indicators for auditory feedbacks to ensure ac
 ##### 2. Dynamic Soundtrack
 The game also uses soundtracks to build up distractions and ambient tones based on the situation. 
 
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/zX0j0Ph.png" style="padding-top:0;margin-top:0;">
 </div>
-<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<div style="display:block; margin-top:0;padding:10px;">
 <h5>K9 Units In BattlePass </h5>
 <p> Usage of the K9 units will play a loud and omnious sound track for the opponent along with the barking of the Dogs. </p>
 <p>These sound tracks are meant as a medium to distract the opponents from the players and cover their footsteps.</p>
@@ -343,12 +343,12 @@ With the introduction of these modes, what the developers have essentially done 
 
 In the advanced mode, the game provides user to set HUD to their preference
 
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<div style="display:flex; align-items:center;">
+<div style="width:100%; max-width:500px; padding:10px">
 <img src="https://i.imgur.com/GswRqMg.jpeg" style="width:100%; max-width:500px; min-width:300px;">
 <p>Which could start like this. An Abomination, I know :) </p>
 </div>
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<div style="width:100%; max-width:500px; padding:10px">
 <img src="https://i.imgur.com/1vvycLC.jpeg" style="width:100%; max-width:500px; min-width:300px;">
 <p>To this or whatever way it would make you play better.</p>
 </div>
@@ -382,11 +382,11 @@ While CODM coreloop consists of **Playing games -> Gain Experiences -> Unlock Re
 
 #### Tournaments
 
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/NKgDE5c.jpeg" style="padding-top:0;margin-top:0;min-width:300px;">
 </div>
-<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<div style="display:block; margin-top:0;padding:10px;">
 <p> Tournaments are targeted towards the archetypes of Skill Masters and King of the hills. Who are on the relentless pursuit of making a name for themselves in the in the area that they are interested in.</p>
 <p>To maintain the exclusivity of tournaments, they are always scheduled for weekends to ensure different modes for players to engage for a longer session length during weekends. </p>
 </div>
@@ -408,11 +408,11 @@ Inorder to cater different engagement groups and competitiveness of the said use
 
 While, the ranked seasons resets every 2 months, there is a concept of Year in call of duty which lasts for... an year (What a surprise. :P). and thats how the game rewards/recognize players who manages to reach Legendary rank consistently over the year.
 
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft">
+<div style="display:flex; align-items:center;">
+<div>
 <img src="https://i.imgur.com/mWvnY68.jpeg" style="padding-top:0;margin-top:0;" width:500px;>
 </div>
-<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<div style="display:block; margin-top:0;padding:10px;">
 <p> Players who won 6 trophies by completing each tasks (Mostly reaching legendary) will get a mythic weapon, which is considered as accolade in the game.</p>
 </div>
 </div>
@@ -425,4 +425,48 @@ While the *Year*, is a quest system, the game also have multiple quest systems t
 We can consider the quest systems in the call of duty as two seperate tracks
 1. Free track
 2. Paid Track a.k.a Battlepass
+
+##### How Coreloop and Meta loops are connected?
+
+##### Free Track
+Free track ensures that non-paid users have a reason to stay loyal to the game and address their FOMO on missing out on great rewards within the game.
+
+Free tracks lasts a season and starts afresh with new rewards and requirements providing novelty for the users.
+
+<div style="display:flex; align-items:center;">
+<div style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/3Q71D0c.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Users can gather points for the free track milestones by completing each tasks in the challenge HQ.</p>
+</div>
+<div style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/asvWTND.jpegg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Each accummulated event points will get contributed to a milestone which provides rewards.</p>
+</div>
+</div>
+###### Cache Tracker
+In the addition to the existing milestone track the new update has introduced a new track which would allow users to get "Mythic Weapons" something CODM players consider highly of and only available through yearly rewards or via by purchasing.
+
+<div style="display:flex; align-items:center;">
+<div style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/bEhIx9U.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Users receive one gacha box per match, up to three times per day, each providing a possibility for getting a shard for mythic weapons. </p>
+</div>
+<div style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/uBuVekb.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Collecting required number of shards will provide user the respective mythic weapon or the skins gacha box.</p>
+</div>
+</div>
+
+This track is interesting considering that user could get an exclusive gacha box only by playing 3 matches a day, not winning, but playing. Thus **ensuring that players would come back every day** and play atleast 3 matches which would eventually provide an **opportunity to convert the users to base users**.
+
+##### Battlepass
+![](https://i.imgur.com/2WO3ydX.jpeg)
+
+The battlepass in the CODM is connected to the coreloop of the game just like all other meta loops within the game.
+
+However, unlike many battlepasses in other mobile games, the codm battlepass gives back the equivalent cost of battlepass as a reward once user completes all the battlepass milestones, which makes the battlepass essentially feel free of cost and thus potentially provide more conversion *(**Speculation**: Need data to confirm)*.
+
+
+
+
 
