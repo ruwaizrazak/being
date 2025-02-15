@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/essays/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T15:09:54.484+01:00"}
+{"dg-publish":true,"permalink":"/garden/essays/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T15:57:19.209+01:00"}
 ---
 
 
@@ -426,6 +426,8 @@ We can consider the quest systems in the call of duty as two seperate tracks
 1. Free track
 2. Paid Track a.k.a Battlepass
 
+##### How Coreloop and Meta loops are connected?
+e
 
 ##### Free Track
 Free track ensures that non-paid users have a reason to stay loyal to the game and address their FOMO on missing out on great rewards within the game.
@@ -457,4 +459,15 @@ In the addition to the existing milestone track the new update has introduced a 
 </div>
 
 This track is interesting considering that user could get an exclusive gacha box only by playing 3 matches a day, not winning, but playing. Thus **ensuring that players would come back every day** and play atleast 3 matches which would eventually provide an **opportunity to convert the users to base users**.
+
+##### Battlepass
+![](https://i.imgur.com/2WO3ydX.jpeg)
+
+The battlepass in the CODM is connected to the coreloop of the game just like all other meta loops within the game.
+
+However, unlike many battlepasses in other mobile games, the codm battlepass gives back the equivalent cost of battlepass as a reward once user completes all the battlepass milestones, which makes the battlepass essentially feel free of cost.
+
+
+
+
 
