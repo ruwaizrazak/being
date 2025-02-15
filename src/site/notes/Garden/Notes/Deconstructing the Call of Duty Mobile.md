@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:32:34.954+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:34:12.273+01:00"}
 ---
 
 
-
+![Pasted image 20250201173852.png](/img/user/Pasted%20image%2020250201173852.png)
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
 	<div style="display: flex; flex-direction: row; justify-content: space-between; align-items:center;">
 		<p style="color:blue; font-weight:bold;flex:40%; padding:10px;">Targeted Audience</p>
@@ -425,48 +425,4 @@ While the *Year*, is a quest system, the game also have multiple quest systems t
 We can consider the quest systems in the call of duty as two seperate tracks
 1. Free track
 2. Paid Track a.k.a Battlepass
-
-##### How Coreloop and Meta loops are connected?
-
-##### Free Track
-Free track ensures that non-paid users have a reason to stay loyal to the game and address their FOMO on missing out on great rewards within the game.
-
-Free tracks lasts a season and starts afresh with new rewards and requirements providing novelty for the users.
-
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
-<img src="https://i.imgur.com/3Q71D0c.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
-<p>Users can gather points for the free track milestones by completing each tasks in the challenge HQ.</p>
-</div>
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
-<img src="https://i.imgur.com/asvWTND.jpegg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
-<p>Each accummulated event points will get contributed to a milestone which provides rewards.</p>
-</div>
-</div>
-###### Cache Tracker
-In the addition to the existing milestone track the new update has introduced a new track which would allow users to get "Mythic Weapons" something CODM players consider highly of and only available through yearly rewards or via by purchasing.
-
-<div class="parent" style="display:flex; align-items:center;">
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
-<img src="https://i.imgur.com/bEhIx9U.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
-<p>Users receive one gacha box per match, up to three times per day, each providing a possibility for getting a shard for mythic weapons. </p>
-</div>
-<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
-<img src="https://i.imgur.com/uBuVekb.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
-<p>Collecting required number of shards will provide user the respective mythic weapon or the skins gacha box.</p>
-</div>
-</div>
-
-This track is interesting considering that user could get an exclusive gacha box only by playing 3 matches a day, not winning, but playing. Thus **ensuring that players would come back every day** and play atleast 3 matches which would eventually provide an **opportunity to convert the users to base users**.
-
-##### Battlepass
-![](https://i.imgur.com/2WO3ydX.jpeg)
-
-The battlepass in the CODM is connected to the coreloop of the game just like all other meta loops within the game.
-
-However, unlike many battlepasses in other mobile games, the codm battlepass gives back the equivalent cost of battlepass as a reward once user completes all the battlepass milestones, which makes the battlepass essentially feel free of cost and thus potentially provide more conversion *(**Speculation**: Need data to confirm)*.
-
-
-
-
 
