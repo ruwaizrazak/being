@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:21:29.886+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:32:34.954+01:00"}
 ---
 
 
-![Pasted image 20250201173852.png](/img/user/Pasted%20image%2020250201173852.png)
+
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background:#fefefe; width:100%; padding:20px;">
 	<div style="display: flex; flex-direction: row; justify-content: space-between; align-items:center;">
 		<p style="color:blue; font-weight:bold;flex:40%; padding:10px;">Targeted Audience</p>
