@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/essays/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-09T17:21:27.107+01:00"}
+{"dg-publish":true,"permalink":"/garden/essays/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T15:09:54.484+01:00"}
 ---
 
 
@@ -375,8 +375,86 @@ Hence, players will find themselves matched with lots of bots, resulting in lots
 While CODM coreloop consists of **Playing games -> Gain Experiences -> Unlock Rewards and Level up**, It is supported by a range of meta loop that would cater to different archetypes of the audience base.
 
 1. Tournaments
-2. Ranked Modes in Multiplayers and BR
-3. Battle Royale
-4. Quest System aka Challenges
+2. Ranked Matches
+3. Quest System aka Challenges
+	1. Battle Royale
+	2. Seasonal Challenges
 
 #### Tournaments
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/NKgDE5c.jpeg" style="padding-top:0;margin-top:0;min-width:300px;">
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<p> Tournaments are targeted towards the archetypes of Skill Masters and King of the hills. Who are on the relentless pursuit of making a name for themselves in the in the area that they are interested in.</p>
+<p>To maintain the exclusivity of tournaments, they are always scheduled for weekends to ensure different modes for players to engage for a longer session length during weekends. </p>
+</div>
+</div>
+
+
+#### Ranked Matches
+![](https://i.imgur.com/D2q3d20.jpeg)
+
+Ranked Seasons are targeted towards *King of the Hill* archetypes, those who loves to showcase their mastery in the game. The players, as per their ranks will have a badge and rewards to flaunt. 
+
+As each Ranked Season lasts approximately 2 months, it is targeting the base (MAU) users for the game. The Ranked is one of the biggest triggers for these set of users to come back every day to the game.
+
+Inorder to cater different engagement groups and competitiveness of the said userbase, it is further divided into few segments.
+
+4. **Ranked Match**: Where users grind to reach Legendary Ranking
+5. **10000+ Ranks**: Beyond 10000+ Points, (98-99 Percentile) Users will have a different set of reward and a badge to flaunt that they are the top percentile
+6. **5000+ Ranks**: Crème de la crème. Will have a different badge and an additional reward. These players will be the most competitive and will be featured in the global leaderboard.
+
+While, the ranked seasons resets every 2 months, there is a concept of Year in call of duty which lasts for... an year (What a surprise. :P). and thats how the game rewards/recognize players who manages to reach Legendary rank consistently over the year.
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft">
+<img src="https://i.imgur.com/mWvnY68.jpeg" style="padding-top:0;margin-top:0;" width:500px;>
+</div>
+<div class="textright" style="display:block; margin-top:0;padding:10px;">
+<p> Players who won 6 trophies by completing each tasks (Mostly reaching legendary) will get a mythic weapon, which is considered as accolade in the game.</p>
+</div>
+</div>
+
+While the *Year*, is a quest system, the game also have multiple quest systems that would cater to the engagement of players.
+
+#### Quest Systems
+![](https://i.imgur.com/aT8cioN.jpeg)
+
+We can consider the quest systems in the call of duty as two seperate tracks
+1. Free track
+2. Paid Track a.k.a Battlepass
+
+
+##### Free Track
+Free track ensures that non-paid users have a reason to stay loyal to the game and address their FOMO on missing out on great rewards within the game.
+
+Free tracks lasts a season and starts afresh with new rewards and requirements providing novelty for the users.
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/3Q71D0c.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Users can gather points for the free track milestones by completing each tasks in the challenge HQ.</p>
+</div>
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/asvWTND.jpegg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Each accummulated event points will get contributed to a milestone which provides rewards.</p>
+</div>
+</div>
+###### Cache Tracker
+In the addition to the existing milestone track the new update has introduced a new track which would allow users to get "Mythic Weapons" something CODM players consider highly of and only available through yearly rewards or via by purchasing.
+
+<div class="parent" style="display:flex; align-items:center;">
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/bEhIx9U.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Users receive one gacha box per match, up to three times per day, each providing a possibility for getting a shard for mythic weapons. </p>
+</div>
+<div class="imageleft" style="width:100%; max-width:500px; padding:10px">
+<img src="https://i.imgur.com/uBuVekb.jpeg" style="padding-top:0;margin-top:0; width:100%; max-width:500px;">
+<p>Collecting required number of shards will provide user the respective mythic weapon or the skins gacha box.</p>
+</div>
+</div>
+
+This track is interesting considering that user could get an exclusive gacha box only by playing 3 matches a day, not winning, but playing. Thus **ensuring that players would come back every day** and play atleast 3 matches which would eventually provide an **opportunity to convert the users to base users**.
+
