@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:49:14.263+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T21:50:51.009+01:00"}
 ---
 
 
@@ -137,7 +137,7 @@ Even though there are lots of triggers for the users in Call of Duty, the key Ar
 <p>These connection could be the people they knew outside the game or someone who they met through the game and remains within.</p>
 </div>
 </div>
-![]()
+
 . 
 
 ### King of the Hill
@@ -427,6 +427,8 @@ We can consider the quest systems in the call of duty as two seperate tracks
 2. Paid Track a.k.a Battlepass
 
 ##### How Coreloop and Meta loops are connected?
+The coreloop and Meta are closely Knit allowing user to cover 90% of the Meta by just engaging with the game. (there are outliers such as Grinding Camos for weapons and weapon mastery. But lets discuss that later. This is already huge.)
+![](https://i.imgur.com/VV3pKTI.jpeg)
 
 ##### Free Track
 Free track ensures that non-paid users have a reason to stay loyal to the game and address their FOMO on missing out on great rewards within the game.
@@ -467,6 +469,32 @@ The battlepass in the CODM is connected to the coreloop of the game just like al
 However, unlike many battlepasses in other mobile games, the codm battlepass gives back the equivalent cost of battlepass as a reward once user completes all the battlepass milestones, which makes the battlepass essentially feel free of cost and thus potentially provide more conversion *(**Speculation**: Need data to confirm)*.
 
 
+### Social Connections in the game.
+![](https://i.imgur.com/n9fI2PT.png)
+
+
+The game provides a lot of avenues for social interaction mediums including voice chat, predefined messages, emotes and social spaces such as clans, friends, random team ups and tournament teams.
+
+which in an implicit way trigger social validation  within the user so that one would return back and grind to get rewards and league rewarding.
+
+## Summary
+The call of duty uses several psychological triggers to maintain retention of its player base, while addressing multiple cohorts of different in-game ages.
+
+Even though we discussed alot of items and methodologies above, all of them can be categorized into two.
+
+### Instant and Delayed Gratifications
+Waiting is often seen as an inconvienience in the world of reels and shorts (read more about the topic [here](https://standard.asl.org/27705/uncategorized/social-media-causes-attention-spans-to-drop/) ) and hence the Call of Duty Mobile delivers a lot of instant gratifications and a promise of a bigger reward which makes user to wait patiently for the bigger one while maintaining the effort.
+
+Here is an interesting study about Delayed Gratifications and its power [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC8635439/)
+
+### Social Validation
+With the inclusion of social interaction in the game, the game allowed users to stay in touch with those whom they are acquainted to on a day to day basis and thus improve more collaboration within the game.
+
+However, avenues for social interaction also opens an avenue to seek social validation. The game uses multiple skins, weapons and of course the skill of the player for the social validation. While the former two can be implicit, the third one, skill can be explicit by surfacing the league badges and exclusive titles.
+
+Here is a beautiful study if you love to [learn more about the social aspects in games](https://www.sciencedirect.com/science/article/pii/S0747563223002029) 
+
+---
 
 
 
