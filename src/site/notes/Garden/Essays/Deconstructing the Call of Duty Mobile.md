@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/essays/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T15:57:19.209+01:00"}
+{"dg-publish":true,"permalink":"/garden/essays/deconstructing-the-call-of-duty-mobile/","noteIcon":1,"created":"2025-01-07T15:43:32.131+01:00","updated":"2025-02-15T20:08:46.735+01:00"}
 ---
 
 
@@ -427,7 +427,6 @@ We can consider the quest systems in the call of duty as two seperate tracks
 2. Paid Track a.k.a Battlepass
 
 ##### How Coreloop and Meta loops are connected?
-e
 
 ##### Free Track
 Free track ensures that non-paid users have a reason to stay loyal to the game and address their FOMO on missing out on great rewards within the game.
