@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/ux-engineer/","title":"UX Engineering, A golden goose?","noteIcon":1,"created":"2024-11-30T20:41:36.000+01:00","updated":"2025-01-03T13:27:30.000+01:00"}
+{"dg-publish":true,"permalink":"/garden/notes/ux-engineer/","title":"UX Engineering, A golden goose?","noteIcon":1,"created":"2024-11-30T20:41:36.991+01:00","updated":"2025-01-03T13:27:30.155+01:00"}
 ---
 
 

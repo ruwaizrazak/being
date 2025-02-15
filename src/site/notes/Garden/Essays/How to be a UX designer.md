@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/essays/how-to-be-a-ux-designer/","title":"How to be a UX designer","noteIcon":2,"created":"2024-11-30T20:41:36.000+01:00","updated":"2025-01-03T13:27:03.000+01:00"}
+{"dg-publish":true,"permalink":"/garden/essays/how-to-be-a-ux-designer/","title":"How to be a UX designer","noteIcon":2,"created":"2024-11-30T20:41:36.962+01:00","updated":"2025-01-03T13:27:03.930+01:00"}
 ---
 
 # How to be a UX designer
